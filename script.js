@@ -6,12 +6,6 @@ window.addEventListener("load", () => {
   document.getElementById("loader").style.display = "none";
 });
 
-// AOS
-
-AOS.init({
-  duration: 1000,
-  once: true
-});
 
 // TYPING EFFECT
 
